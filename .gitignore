@@ -1,0 +1,6 @@
+.env.*
+!.env.example
+.serverless*
+.env
+.vscode
+node_modules/
